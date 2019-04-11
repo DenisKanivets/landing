@@ -1,1 +1,1 @@
-<a href="https://deniskanivets.github.io/just-layout/">Demo</a>
+<a href="https://deniskanivets.github.io/landing/">Demo</a>
